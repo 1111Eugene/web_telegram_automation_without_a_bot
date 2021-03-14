@@ -1,0 +1,1 @@
+node d:\SELENIUM\driverConfig\telegramSend.js
